@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jeffrey Lum
-- 🌱 I’m currently learning app development with React Native, front-end web development with HTML, CSS, JavaScript, and JavaScript Frameworks.
+- 👋 Hi, I’m Jeffrey Lum. Recently graduated from California State University, Los Angeles w/ a degree in Computer Science
+- 🌱 I’m currently learning Angular
 
 <!---
 JeffreyLum/JeffreyLum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
