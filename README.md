@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeffrey Lum. Recently graduated from California State University, Los Angeles w/ a degree in Computer Science
+- 👋 Welcome :)
 
 <!---
 JeffreyLum/JeffreyLum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
